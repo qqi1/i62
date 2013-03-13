@@ -8,7 +8,7 @@
 	skins = "i62.zip"
 	plugins = "announce.swf,buffernext.swf,youku.swf,tudou.swf,qiyi.swf,ads.swf,sohu.swf,proxy.swf"
 	backgrounds = ""
-	lists = "jiedai[1]"
+	lists = ""
 	youku_handler="http://www.yy6864.com/cmp/tools/yo.php?id="
 	proxy = "http://proxy.player.yy6080.org/"
 	src_handler = "" 
