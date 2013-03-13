@@ -8,7 +8,7 @@
     logo = "{src:http://vivvcn.duapp.com/cmp/183.swf,xywh:[10R,5,75,75]}"
 	logo_alpha = "0.9"
 	video_image="{src:http://vivvcn.duapp.com/cmp/183.swf,xywh:[0C,-30C,360,120]}"
-	skins = "62.zip"
+	skins = "i62.zip"
 	plugins = "announce.swf,buffernext.swf,youku.swf,tudou.swf,qiyi.swf,ads.swf,sohu.swf"
 	backgrounds = "http://1.guozi6090.sinaapp.com//yy6090/ga.swf"
 	bgcolor = ""
