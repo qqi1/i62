@@ -4,7 +4,7 @@
 	name = "高清影院红苹果"
 	link = "http://www.i62.org/"
 	link_target = "_blank"
-	description = "&lt;b&gt;&lt;font size=&quot;12px&quot;&gt;&lt;font color=&quot;#AA9234&quot;&gt;点击右上角收藏本频道：红苹果影院"
+	description = "&lt;b&gt;&lt;font size=&quot;14px&quot;&gt;&lt;font color=&quot;#AA9234&quot;&gt;点击右上角收藏本频道：红苹果影院"
     logo = "{src:http://vivvcn.duapp.com/cmp/183.swf,xywh:[10R,5,75,75]}"
 	logo_alpha = "0.9"
 	video_image="{src:http://vivvcn.duapp.com/cmp/183.swf,xywh:[0C,-30C,360,120]}"
