@@ -1,0 +1,73 @@
+<list>
+<m label="清风影视传媒-PHP100视频教程更新68课">
+<m type="youku" streamtype="flv" src="XMTI1MTEyMzY4" label="PHP100视频教程第01课：环境配置与代码调试"/>
+<m type="youku" streamtype="flv" src="XMTI1MTEyNDY4" label="PHP100视频教程第02课：PHP的数据类型与源码调试"/>
+<m type="youku" streamtype="flv" src="XMTI1MTEyNTMy" label="PHP100视频教程第03课：常用PHP运算类型介绍与应用"/>
+<m type="youku" streamtype="flv" src="XMTI1MTEyNjAw" label="PHP100视频教程第04课：PHP条件语句介绍与应用"/>
+<m type="youku" streamtype="flv" src="XMTI1MTEyNjcy" label="PHP100视频教程第05课：PHP循环语句的介绍与应用"/>
+<m type="youku" streamtype="flv" src="XMTI1MTEyNzky" label="PHP100视频教程第06课：PHP数组的创建修改应用"/>
+<m type="youku" streamtype="flv" src="XMTI1MTEyOTIw" label="PHP100视频教程第07课：PHP函数和自定义函数"/>
+<m type="youku" streamtype="flv" src="XMTI1MTEzMDA4" label="PHP100视频教程第08课：Mysql 简介和创建新的数据库"/>
+<m type="youku" streamtype="flv" src="XMTI1MTEzMDYw" label="PHP100视频教程第09课：数据库中的常用SQL语句"/>
+<m type="youku" streamtype="flv" src="XMTI1MTEzMTYw" label="PHP100视频教程第10课：MYSQL在PHP5中的应用"/>
+<m type="youku" streamtype="flv" src="XMTI1MTEzMjA0" label="PHP100视频教程第11课：学习制作PHPMYSQL留言板（上）"/>
+<m type="youku" streamtype="flv" src="XMTI1MTEzMjQw" label="PHP100视频教程第12课：学习制作PHPMYSQL留言板（下）"/>
+<m type="youku" streamtype="flv" src="XMTI1MTEzMzA4" label="PHP100视频教程第13课：PHPMYSQL分页原理"/>
+<m type="youku" streamtype="flv" src="XMTI1MTEzMzUy" label="PHP100视频教程第14课：PHP上传原理及应用"/>
+<m type="youku" streamtype="flv" src="XMTI1MTEzNDM2" label="PHP100视频教程第15课：PHP生成HTML文件原理"/>
+<m type="youku" streamtype="flv" src="XMTI1MTEzNDc2" label="PHP100视频教程第16课：PHP小偷程序原理和实例"/>
+<m type="youku" streamtype="flv" src="XMTI1MTEzNTM2" label="PHP100视频教程第17课：PHP面向对象开发的学习（一）"/>
+<m type="youku" streamtype="flv" src="XMTI1MTEzNjEy" label="PHP100视频教程第18课：PHP面向对象开发的学习（二）"/>
+<m type="youku" streamtype="flv" src="XMTI1MTEzNjY0" label="PHP100视频教程第19课：PHP面向对象开发的学习（三）"/>
+<m type="youku" streamtype="flv" src="XMTI1MTEzNzM2" label="PHP100视频教程第20课：PHP面向对象开发的学习（四）"/>
+<m type="youku" streamtype="flv" src="XMTI1MTEzNzg4" label="PHP100视频教程第21课：PHP面向对象开发的学习（五）"/>
+<m type="youku" streamtype="flv" src="XMTI1MTEzODU2" label="PHP100视频教程第22课：PHP面向对象开发的学习（六）"/>
+<m type="youku" streamtype="flv" src="XMTI1MTEzOTI0" label="PHP100视频教程第23课：PHP面向对象开发的学习（七）"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE0MDA0" label="PHP100视频教程第24课：PHP面向对象开发的学习（八）"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE0MDMy" label="PHP100视频教程第25课：PHP面向对象开发的学习（九）"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE0MTEy" label="PHP100视频教程第26课：制作自己的PHPMYSQL的类"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE0MTY0" label="PHP100视频教程第27课：PHP模板引擎Smarty入门使用"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE0MjMy" label="PHP100视频教程第28课：PHP模板引擎Smarty的变量操作符"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE0Mjc2" label="PHP100视频教程第29课：PHP模板引擎Smarty内置函数"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE0MzI0" label="PHP100视频教程第30课：PHP模板引擎Smarty缓存应用"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE0NDA0" label="PHP100视频教程第31课：PHP在线编辑器fckeditor应用"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE0NDY4" label="PHP100视频教程第32课：PHP5中Cookie与 Session详解"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE0NTMy" label="PHP100视频教程第33课：PHP5中图片验证码的制作（上）"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE0NTYw" label="PHP100视频教程第34课：PHP5中图片中文验证码（下）"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE0NzIw" label="PHP100视频教程第35课：PHP5文字图片混合水印与缩略图"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE0OTYw" label="PHP100视频教程第36课：PHP中正则表达式学习及应用（一）"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE1MDI0" label="PHP100视频教程第37课：PHP中正则表达式学习及应用（二）"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE1MDg4" label="PHP100视频教程第38课：PHP中正则表达式学习及应用（三）"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE1MjE2" label="PHP100视频教程第39课：PHP中正则表达式学习及应用（四）"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE1Mjcy" label="PHP100视频教程第40课：PHP中开发自己的-UBB代码"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE1Mzcy" label="PHP100视频教程第41课：PHP站内搜索、多关键字、加亮显示"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE1NDM2" label="PHP100视频教程第42课：PHP通过mail()或Socket发邮件"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE1NTMy" label="PHP100视频教程第43课：PHP中MVC学习之ThinkPHP（上）"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE1Njgw" label="PHP100视频教程第44课：PHP中MVC学习之ThinkPHP（下）"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE1ODMy" label="PHP100视频教程第45课：如何用PHP开发一个完整的网站"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE1OTI4" label="PHP100视频教程第46课：PHPMyAdmin功能操作详解"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE1OTI0" label="PHP100视频教程第47课：PHP输出CSV和EXCEL两种简单的方法"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE1OTQ4" label="PHP100视频教程第48课：AjaxPHP快速上手及应用"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE1OTk2" label="PHP100视频教程第49课：AjaxPHP打造等待进度条效果（二）"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE2MDcy" label="PHP100视频教程第50课：AjaxPHP检查用户名或邮件（三"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE2MTUy" label="PHP100视频教程第51课：PHPMYSQL会员系统的开发(上)"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE2MjE2" label="PHP100视频教程第52课：PHPMYSQL会员系统的开发（下）"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE2MzI4" label="PHP100视频教程第53课：PHP如何防止注入及开发安全"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE2NDE2" label="PHP100视频教程第54课：Apache Rewrite 拟静态配置"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE2NDQ4" label="PHP100视频教程第55课：PHP5中使用PDO连接数据库"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE2NTIw" label="PHP100视频教程第56课：制作PHP安装程序的原理和步骤"/>
+<m type="youku" streamtype="flv" src="XMTI1MTM0MDE2" label="PHP100视频教程第57课：PHP备份数据库原理和方法"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE2NzY4" label="PHP100视频教程第58课：快速设计一个企业网站之BIWEB"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE3MDQ0" label="PHP100视频教程第59课：关于BIWEB常见问题和结构分析"/>
+<m type="youku" streamtype="flv" src="XMTI1MTMxNDk2" label="PHP100视频教程第60课：PHP与数据库代码开发规范"/>
+<m type="youku" streamtype="flv" src="XMTI1MTI2MjYw" label="PHP100视频教程第61课：PHPMysql新闻系统的开发一"/>
+<m type="youku" streamtype="flv" src="XMTI1MTM0OTY4" label="PHP100视频教程第62课：PHPMysql新闻系统的开发二"/>
+<m type="youku" streamtype="flv" src="XMTI1MTI1NTY4" label="PHP100视频教程第63课：PHPMysql新闻系统的开发三（上）"/>
+<m type="youku" streamtype="flv" src="XMTI2ODQwNzQ4" label="PHP100视频教程第64课 PHPMysql新闻系统的开发四"/>
+<m type="youku" streamtype="flv" src="XMTI3OTUxMzUy" label="PHP100视频教程第65课 PHPMysql新闻系统的开发五"/>
+<m type="youku" streamtype="flv" src="XMTI5MzUzOTAw" label="PHP100视频教程第66课：PHPMysql新闻系统的开发六"/>
+<m type="youku" streamtype="flv" src="XMTMxMDIzNjU2" label="PHP100视频教程第67课：PHPMysql新闻系统的开发七"/>
+<m type="youku" streamtype="flv" src="XMTMyMzk1NjMy" label="PHP100视频教程第68课：PHPMysql新闻系统的开发八"/>
+<m type="youku" streamtype="flv" src="XMTI1MTE3MjY0" label="PHP100视频教程：EclipsePHP(easyeclipse)的使用和配置"/>
+</m>
+</list>
